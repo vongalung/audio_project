@@ -1,3 +1,5 @@
+NOTES_PER_SECOND = 16
+
 NOTES = {
 	"0":0,
 	"C0":16.35,
